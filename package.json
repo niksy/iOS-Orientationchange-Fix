@@ -1,6 +1,6 @@
 {
   "name": "ios-orientationchange-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fix for the iOS orientationchange zoom bug.",
   "main": "ios-orientationchange-fix.js",
   "scripts": {
