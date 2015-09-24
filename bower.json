@@ -1,0 +1,28 @@
+{
+  "name": "ios-orientationchange-fix",
+  "main": "ios-orientationchange-fix.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/niksy/iOS-Orientationchange-Fix",
+  "description": "A fix for the iOS orientationchange zoom bug.",
+  "keywords": [
+    "ios",
+    "orientation",
+    "change",
+    "fix"
+  ],
+  "authors": [
+    "Peter Wooster",
+    "Ivan Nikolic"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "moduleType": [
+    "globals"
+  ]
+}
